@@ -13,7 +13,7 @@ main {
     width: 620px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(255, 255, 255, 0.925);
+    box-shadow: 5px 5px 7px rgba(182, 231, 201, 0.925);
 }
 img.lado{
     float: right;
